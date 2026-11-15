@@ -1,0 +1,15 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "coconut.coconut-mod",
+	"name": "Coconut Mod",
+	"developer": "Coconut",
+	"description": "Mod utilitas bergaya QOL dengan menu GD: noclip, speedhack, konfirmasi, dan lainnya.",
+	"tags": ["enhancement"]
+}
